@@ -16,4 +16,5 @@ Training a Model Module:
 * A "ready to run" version that you can execute the code in for yourself, or copy and edit as you wish:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/richiehodel/IGCB_biological_images/blob/main/Model_training_empty.ipynb)
 
-
+If you want to follow along, here is a data set you can download (and then upload to google drive):
+https://ndownloader.figshare.com/files/28871331?private_link=26890b409bb01c747551
