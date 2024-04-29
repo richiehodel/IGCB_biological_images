@@ -3,6 +3,8 @@
 This is the hub for the IGCB stats workshop on April 29, 2024:
 "Using Google Colab for Machine Learning with Biological Data"
 
+Among the files, there are hands-on jupyter notebooks and a test dataset:
+
 
 Image Acquisition Module:
 * A "completed" version where all code has been executed so that you can see the results: 
